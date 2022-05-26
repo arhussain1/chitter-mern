@@ -3,6 +3,14 @@
 ### Introduction
 This project will aim to clone the popular social media platform Twitter. The user stories will be broken down into four categories below; beginner, intermediate, hard and advanced.
 
+#### Technologies
+:blue_square: MongoDB 
+:blue_square: Express js
+:blue_square: Node js
+:blue_square: React
+
+### User Stories
+
 #### beginner
 ```
 As a Maker
